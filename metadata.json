@@ -1,0 +1,7 @@
+{
+  "name": "TechPortalOps Bot",
+  "description": "AI consultant for OPS installers with regulatory database and subscription.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
